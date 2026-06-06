@@ -271,8 +271,8 @@ Jane Smith,jane@beta.io,+91 87654 00002,Beta Inc,Contacted,LinkedIn,30000,Warm l
 
 Built for: Full Stack Developer Internship Assignment  
 Submitted to: hr@websites.co.in  
-GitHub: [your-repo-url]  
-Live Demo: [your-demo-url]
+GitHub: https://github.com/Janhavi-cmd/leadflow
+Live Demo: https://leadflow-plum.vercel.app/
 
 ---
 
