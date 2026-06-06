@@ -1,0 +1,9 @@
+node_modules/
+.env
+build/
+uploads/
+*.log
+.DS_Store
+
+# Keep example, ignore actual secrets
+!.env.example
